@@ -4,3 +4,5 @@ I use HTML/CSS and JavaScript to build a simple website and publish it online:
 https://chinchouko.herokuapp.com
 
 The project was top 10 best Projects in our class poll, class size 200+, got 90/80 scores(extra credits)
+
+I keep updating this website as my personal page and uploading new projects.
